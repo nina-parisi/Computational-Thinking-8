@@ -13,9 +13,6 @@
         "README.md": true,
     },
     "git.confirmEmptyCommits": false,
-    "Lua.spell.dict": [
-        "exitonclick"
-    ],
     "git.useEditorAsCommitInput": false,
     "workbench.commandPalette.showAskInChat": false,
     "chat.agent.enabled": false,
