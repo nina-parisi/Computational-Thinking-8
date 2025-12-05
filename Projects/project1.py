@@ -1,0 +1,5 @@
+name = input ("hi, whats your name?")
+print (f"hi {name}!")
+input()
+subject = input ("what is your favorite school subject?")
+print (f"awesome! {subject} is also my favorite {subject}!")
